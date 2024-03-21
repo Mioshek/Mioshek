@@ -6,8 +6,9 @@
 <br></br>
 [![Mioshek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mioshek)](https://github.com/anuraghazra/github-readme-stats)
 <br></br>
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mioshek/langs)](https://githubtrends.io)
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mioshek/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+<br></br>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mioshek/repos?time_range=one_year&group=other&theme=dark)](https://githubtrends.io)
 <!---
 Mioshek/Mioshek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
