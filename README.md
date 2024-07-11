@@ -11,6 +11,8 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mioshek/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
 <br></br>
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Mioshek/repos?time_range=one_year&group=other&theme=dark)](https://githubtrends.io)
+<br></br>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 <!---
 Mioshek/Mioshek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
